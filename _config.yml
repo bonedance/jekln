@@ -14,7 +14,5 @@ url: "https://bonedance.github.io" # the base hostname & protocol for your site
 
 
 # Build settings
-markdown: rdiscount
-rdiscount: 
-  extensions: [smart]
+markdown: kramdown
 permalink: /articles/:title
